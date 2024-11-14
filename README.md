@@ -1,2 +1,2 @@
 # Коммерческий проект - Чат-бот для группы ВК
-JavaScript, Node JS, vk-io, Amvera (деплой)
+JavaScript, Node JS, vk-io
